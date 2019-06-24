@@ -2,14 +2,14 @@
 Getting the edges of original image
 
 
-##How to compile
+## How to compile
 
 ```
 $ cd image
 $ g++ image.cpp -o image.out
 ```
 
-##How to run
+## How to run
 
 - You must prepare "input.bmp" file in same location.
 
@@ -17,14 +17,14 @@ $ g++ image.cpp -o image.out
 $ ./image.out
 ```
 
-##Run Example
+## Run Example
 
 
-###input.bmp
+### input.bmp
 
 ![Input](./image/input.bmp)
 
 
-###output.bmp
+### output.bmp
 
 ![Output](./image/output.bmp)
